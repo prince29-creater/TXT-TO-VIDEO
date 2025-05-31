@@ -1712,8 +1712,8 @@ async def txt_handler(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    await m.reply_text("🔰Done🔰")
-    await m.reply_text("✨Thankyou For Choosing")
+    await m.reply_text("🔰𝐷𝑂𝑁𝐸🔰")
+    await m.reply_text("💫😎 𝑅𝐸𝐴𝐶𝑇𝐼𝑂𝑁 𝐾𝑂𝑁 𝐷𝐸𝐺𝐴 😎💫")
 
 bot.run()
 if __name__ == "__main__":
